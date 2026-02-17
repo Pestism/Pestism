@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sajed</h1>
-<h3 align="center">Junior developer | KTH Student | Teaching Assistant apps</h3>
+<h3 align="center">Junior developer | KTH Student | Teaching Assistant </h3>
 
 ---
 
